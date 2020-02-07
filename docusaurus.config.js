@@ -2,7 +2,7 @@ module.exports = {
   title: 'Streetcred API Documentation',
   tagline: 'SSI Resources for Developers',
   url: 'https://michaeldboyd.github.io',
-  baseUrl: '/',
+  baseUrl: '/api-docs-v2/',
   favicon: 'img/streetcred_colorful.png',
   organizationName: 'michaeldboyd', // Usually your GitHub org/user name.
   projectName: 'api-docs-v2', // Usually your repo name.
