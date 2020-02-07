@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://michaeldboyd.github.io',
   baseUrl: '/',
   favicon: 'img/streetcred_colorful.png',
-  organizationName: 'streetcred-id', // Usually your GitHub org/user name.
-  projectName: 'streetcred-docs', // Usually your repo name.
+  organizationName: 'michaeldboyd', // Usually your GitHub org/user name.
+  projectName: 'api-docs-v2', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Streetcred ID',
